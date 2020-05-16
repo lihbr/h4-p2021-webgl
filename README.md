@@ -1,5 +1,3 @@
-# PROJECT_NAME
+# h4-p2021-webgl
 
-## About
-
-Project description
+HETIC H4 WebGL lessons
